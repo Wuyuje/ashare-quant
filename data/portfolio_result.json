@@ -1,0 +1,50 @@
+[
+ {
+  "final": 113534.98,
+  "ret": 13.53,
+  "mdd": -29.64,
+  "days": 57,
+  "max_pos_used": 1,
+  "label": "持1只 无择时"
+ },
+ {
+  "final": 106199.59,
+  "ret": 6.2,
+  "mdd": -11.92,
+  "days": 57,
+  "max_pos_used": 3,
+  "label": "持3只 无择时"
+ },
+ {
+  "final": 107290.92,
+  "ret": 7.29,
+  "mdd": -6.14,
+  "days": 57,
+  "max_pos_used": 5,
+  "label": "持5只 无择时"
+ },
+ {
+  "final": 107290.92,
+  "ret": 7.29,
+  "mdd": -6.14,
+  "days": 57,
+  "max_pos_used": 5,
+  "label": "持5只+择时"
+ },
+ {
+  "final": 105523.9,
+  "ret": 5.52,
+  "mdd": -4.58,
+  "days": 57,
+  "max_pos_used": 8,
+  "label": "持8只+择时"
+ },
+ {
+  "final": 107298.96,
+  "ret": 7.3,
+  "mdd": -3.15,
+  "days": 57,
+  "max_pos_used": 10,
+  "label": "持10只+择时"
+ }
+]

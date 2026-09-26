@@ -1,0 +1,54 @@
+[
+ {
+  "label": "v4评分60",
+  "stocks": 47,
+  "trades": 1422,
+  "wr": 47.7,
+  "pool": 27.45,
+  "win_stocks": 26,
+  "win_pct": 55.3,
+  "mdd": -32.0,
+  "aw": 6.69,
+  "al": -4.92,
+  "sec": 77
+ },
+ {
+  "label": "v4评分60+择时",
+  "stocks": 47,
+  "trades": 1084,
+  "wr": 47.7,
+  "pool": 18.97,
+  "win_stocks": 29,
+  "win_pct": 61.7,
+  "mdd": -26.5,
+  "aw": 6.57,
+  "al": -4.72,
+  "sec": 95
+ },
+ {
+  "label": "v4评分55+择时",
+  "stocks": 47,
+  "trades": 1193,
+  "wr": 46.7,
+  "pool": 14.99,
+  "win_stocks": 29,
+  "win_pct": 61.7,
+  "mdd": -29.2,
+  "aw": 6.33,
+  "al": -4.79,
+  "sec": 106
+ },
+ {
+  "label": "v4评分60+择时+持有10",
+  "stocks": 47,
+  "trades": 818,
+  "wr": 50.2,
+  "pool": 26.21,
+  "win_stocks": 26,
+  "win_pct": 55.3,
+  "mdd": -27.3,
+  "aw": 8.25,
+  "al": -6.05,
+  "sec": 103
+ }
+]

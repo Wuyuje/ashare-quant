@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+data/portfolio.json
+data/stock_list.json
+data/*.bak*
+logs/

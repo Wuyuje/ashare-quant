@@ -1,0 +1,46 @@
+[
+ {
+  "label": "①追高75",
+  "stocks": 47,
+  "trades": 509,
+  "wr": 47.3,
+  "pool": 9.32,
+  "win_stocks": 25,
+  "win_pct": 53.2,
+  "mdd": -24.1,
+  "sec": 68
+ },
+ {
+  "label": "②追高+移动止盈",
+  "stocks": 47,
+  "trades": 477,
+  "wr": 47.4,
+  "pool": 11.62,
+  "win_stocks": 27,
+  "win_pct": 57.4,
+  "mdd": -24.6,
+  "sec": 67
+ },
+ {
+  "label": "③回调70",
+  "stocks": 47,
+  "trades": 561,
+  "wr": 49.7,
+  "pool": 8.89,
+  "win_stocks": 26,
+  "win_pct": 55.3,
+  "mdd": -21.6,
+  "sec": 65
+ },
+ {
+  "label": "④回调+移动止盈",
+  "stocks": 47,
+  "trades": 465,
+  "wr": 49.0,
+  "pool": 7.46,
+  "win_stocks": 25,
+  "win_pct": 53.2,
+  "mdd": -22.7,
+  "sec": 74
+ }
+]

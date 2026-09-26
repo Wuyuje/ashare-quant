@@ -1,0 +1,54 @@
+[
+ {
+  "label": "A 无择时(基准v2)",
+  "stocks": 47,
+  "trades": 479,
+  "wr": 48.2,
+  "pool": 23.31,
+  "win_stocks": 24,
+  "win_pct": 51.1,
+  "mdd": -26.5,
+  "avg_win": 9.3,
+  "avg_loss": -7.32,
+  "sec": 73
+ },
+ {
+  "label": "B 大盘择时",
+  "stocks": 46,
+  "trades": 384,
+  "wr": 47.9,
+  "pool": 17.6,
+  "win_stocks": 24,
+  "win_pct": 52.2,
+  "mdd": -20.8,
+  "avg_win": 10.02,
+  "avg_loss": -6.64,
+  "sec": 119
+ },
+ {
+  "label": "C 只做牛市",
+  "stocks": 46,
+  "trades": 298,
+  "wr": 47.0,
+  "pool": 7.32,
+  "win_stocks": 17,
+  "win_pct": 37.0,
+  "mdd": -16.6,
+  "avg_win": 7.56,
+  "avg_loss": -6.06,
+  "sec": 192
+ },
+ {
+  "label": "D 择时+回调",
+  "stocks": 47,
+  "trades": 392,
+  "wr": 47.2,
+  "pool": 9.11,
+  "win_stocks": 26,
+  "win_pct": 55.3,
+  "mdd": -18.9,
+  "avg_win": 8.63,
+  "avg_loss": -5.7,
+  "sec": 99
+ }
+]
